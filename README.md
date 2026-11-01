@@ -1,0 +1,3 @@
+# effective-pancake
+
+Initialized repository.
